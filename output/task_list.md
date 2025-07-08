@@ -1,0 +1,20 @@
+- [ ] Proje ana klasörünü `notdefteri` olarak oluştur.
+- [ ] `notdefteri` klasörü içinde `index.html`, `style.css` dosyalarını ve `scripts` klasörünü oluştur.
+- [ ] `scripts` klasörü içine `storage.js`, `notes.js`, ve `ui.js` dosyalarını oluştur.
+- [ ] `index.html` dosyasını oluştur ve temel HTML5 yapısını kur.
+- [ ] `index.html` içine Bootstrap 5.3 CSS ve JS CDN bağlantılarını ekle.
+- [ ] `index.html` içine `style.css` dosyasını bağla.
+- [ ] `index.html` içine `scripts/storage.js`, `scripts/ui.js`, ve `scripts/notes.js` dosyalarını modül olarak bağla.
+- [ ] `index.html` içinde not ekleme formunu (başlık, içerik inputları ve kaydet butonu) oluştur.
+- [ ] `index.html` içinde notların listeleneceği alanı (örneğin bir `div`) oluştur.
+- [ ] `style.css` dosyasına UI tanımına uygun temel stilleri (gölgeler, yuvarlak köşeler vb.) ekle.
+- [ ] `scripts/storage.js`: Notları `localStorage`'dan okuyan bir fonksiyon yaz.
+- [ ] `scripts/storage.js`: Notları `localStorage`'a kaydeden bir fonksiyon yaz.
+- [ ] `scripts/ui.js`: Tek bir notu HTML'e dönüştürüp ekranda gösteren bir fonksiyon yaz.
+- [ ] `scripts/ui.js`: Tüm notları alıp ekranda listeleyen bir render fonksiyonu yaz.
+- [ ] `scripts/ui.js`: Notu DOM'dan silen bir fonksiyon ekle.
+- [ ] `scripts/notes.js`: Sayfa yüklendiğinde `storage.js`'den notları alıp `ui.js` ile ekrana yazdır.
+- [ ] `scripts/notes.js`: Not ekleme formunu dinle ve yeni notu `storage.js`'e kaydettirip `ui.js` ile ekranı güncelle.
+- [ ] `scripts/notes.js`: Silme butonlarına tıklanıldığında ilgili notu `storage.js`'den silip `ui.js` ile DOM'dan kaldır.
+- [ ] `scripts/notes.js`: Düzenleme butonuna tıklandığında notu forma taşıyan ve güncelleme mantığını yöneten işlevi ekle.
+- [ ] `README.md` dosyasını oluştur ve proje hakkında kısa bir açıklama ekle.

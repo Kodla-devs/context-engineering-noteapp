@@ -1,0 +1,24 @@
+# commands/execute_tasks.txt
+
+Aşağıda `task_list.md` içinde yer alan görevleri sırayla uygula.  
+Her görev sonrası çıkan dosyayı `output/results/` klasörüne yerleştir.
+
+## Gerekenler:
+
+- Her görevi sırayla ve tek tek uygula.
+- Kodları sade, işlevsel ve modüler şekilde yaz.
+- Sadece gerekli dosyayı üret, yorum veya açıklama ekleme.
+- Bootstrap uyumlu, modern bir yapı kullan.
+- Tema desteği yoktur, karanlık/aydınlık mod ekleme.
+- Çıktılar `output/results/` içine yazılmalı.
+
+## Kullanılan Dosyalar:
+
+- `output/task_list.md` → Görev listesi
+- `.context/rules.md`
+- `.context/structure.md`
+- `.context/ui.md`
+
+## Prompt Şablonu:
+
+- `prompts/execute_tasks.tpl`
