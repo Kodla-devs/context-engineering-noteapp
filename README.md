@@ -1,4 +1,4 @@
-# 🧠 context-engineering-noteapp
+# Context Engineering Noteapp
 
 Bu repo, **Context Engineering** yaklaşımıyla geliştirilmiş sade ve responsive bir not alma uygulamasını içerir.  
 Gemini CLI ile çalışan bu yapı, bağlam dosyalarına göre görev listesi üretir ve ardından uygulamayı otomatik olarak oluşturur.
